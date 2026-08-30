@@ -42,7 +42,7 @@ lines += [
     "",
     "## How It Works",
     "",
-    "This project checks the websites listed in `sites.txt` every 15 minutes using GitHub Actions.",
+    "This project checks the websites listed in `sites.txt` every 5 minutes using GitHub Actions.",
     "It updates this README with the latest status and commits the changes automatically using `github-actions[bot]`.",
 ]
 
