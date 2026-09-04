@@ -14,7 +14,7 @@ A simple website uptime monitor powered by GitHub Actions.
 | https://www.mozilla.org | ✅ Online | 200 |
 | https://www.apple.com | ✅ Online | 200 |
 | https://www.microsoft.com | ✅ Online | 200 |
-| https://www.nasa.gov | ✅ Online | 200 |
+| https://www.nasa.gov | ❌ Down | 429 |
 | https://www.gnu.org | ❌ Down | 403 |
 | https://www.kernel.org | ✅ Online | 200 |
 | https://www.raspberrypi.com | ❌ Down | 403 |
@@ -25,7 +25,7 @@ A simple website uptime monitor powered by GitHub Actions.
 | https://www.w3.org | ✅ Online | 200 |
 | https://www.iana.org | ✅ Online | 200 |
 
-_Last checked: 2026-09-04 21:44 UTC_
+_Last checked: 2026-09-04 23:24 UTC_
 
 ## How It Works
 
