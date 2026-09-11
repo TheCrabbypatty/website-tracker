@@ -9,7 +9,7 @@ A simple website uptime monitor powered by GitHub Actions.
 | https://github.com | ✅ Online | 200 |
 | https://www.python.org | ✅ Online | 200 |
 | https://www.wikipedia.org | ❌ Down | 403 |
-| https://www.cloudflare.com | ✅ Online | 200 |
+| https://www.cloudflare.com | ❌ Down | Error |
 | https://www.google.com | ✅ Online | 200 |
 | https://www.mozilla.org | ✅ Online | 200 |
 | https://www.apple.com | ✅ Online | 200 |
@@ -25,7 +25,7 @@ A simple website uptime monitor powered by GitHub Actions.
 | https://www.w3.org | ✅ Online | 200 |
 | https://www.iana.org | ✅ Online | 200 |
 
-_Last checked: 2026-09-11 10:33 UTC_
+_Last checked: 2026-09-11 14:36 UTC_
 
 ## How It Works
 
