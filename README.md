@@ -25,7 +25,7 @@ A simple website uptime monitor powered by GitHub Actions.
 | https://www.w3.org | ✅ Online | 200 |
 | https://www.iana.org | ✅ Online | 200 |
 
-_Last checked: 2026-10-26 21:25 UTC_
+_Last checked: 2026-10-27 00:41 UTC_
 
 ## How It Works
 
